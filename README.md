@@ -4,7 +4,7 @@ Desenvolvedor Pleno Full Stack
 
 Contatos
 - Email [toniagne@gmail.com](mailto:toniagne@gmail.com)
-- Telegram [@ronynogueiras](https://t.me/toniagne)
+- Telegram [@toniagne](https://t.me/toniagne)
 - Linkedin [Toni Agne](www.linkedin.com/in/toniagne)
 
 ---
