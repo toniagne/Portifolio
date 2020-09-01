@@ -11,13 +11,27 @@ Contatos
 
 ## Apresentação
 
-Desenvolvedor com vasto conhecimento em linguagens de programação, padrões de projeto, ferramentas e técnicas de otimização. Sempre buscando o aprimoramento de meus conhecimentos, me atualizando sobre assuntos relacionados a minha área de atuação e atento as novas tecnologias que surgem diariamente. Possuo conhecimento em diversos sistemas operacionais (Windows, Linux, Mac OS, iOS e Android), linguagens de programação (PHP, Javascript, HTML, CSS, Java, Swift, Shell), banco de dados MySQL, arquitetura API Restful,  ferramentas de edição de imagem (Adobe Illustrator, Photoshop, CorelDraw) e outros. Não acredito em [bala de prata](https://iopub.org/n%C3%A3o-h%C3%A1-bala-de-prata-para-o-desenvolvimento-de-software-5c6e73ecd28c) para desenvolvimento de software, acredito que deve ser feita uma análise do problema e assim determinar qual a melhor forma de resolve-lo.
+Desenvolvedor com vasto conhecimento em linguagens de programação, padrões de projeto, ferramentas e técnicas de otimização. Sempre buscando o aprimoramento de meus conhecimentos, me atualizando sobre assuntos relacionados a minha área de atuação e atento as novas tecnologias que surgem diariamente. Trabalho com SO Linux (Ubuntu), tecnologias (PHP, TypeScript, LARAVEL, Angular, Vue.js, DOCKER, Flutter), banco de dados MySQL, arquitetura API Restful,  ferramentas de edição de imagem (Adobe Illustrator, Photoshop, CorelDraw) e outros. Não acredito em [bala de prata](https://iopub.org/n%C3%A3o-h%C3%A1-bala-de-prata-para-o-desenvolvimento-de-software-5c6e73ecd28c) para desenvolvimento de software, acredito que deve ser feita uma análise do problema e assim determinar qual a melhor forma de resolve-lo.
 
 ## Formação
 
 - Engenharia de Software - UNINTER Cachoeira do Sul - 2018
 
 ## JOBs e Projetos executados
+
+### Agência BurnIt
+#### Projetos
+  - [EducazEscolas](https://www.educaz.com.br/) - Participação nas atualizações diárias tanto na API BackEnd(PHP/Laravel) quanto no FrontEnd(Angular/TypeScript)
+ 
+- Participaçao ativa no site [Perennials] - Desenvolvimento da administração e implementação na API
+
+### INOVE DADOS
+#### Projetos
+  - [Prefeitura Nova Lima - MG](https://novalima.mg.gov.br/) - Participação de demandas para alterações e desenvolvimento de novas atualizações
+ 
+  - [Patrocine uma criança](https://charity.bitchainexchanges.com/) - Desenvolvimento do portal de doações utilizando com api de blackchain de criptomoedas 
+
+  - [Projetos Internos](https://www.inovedados.com.br/) - Participação ativa nos diversos projetos internos ( MÓDULO FINANCEIRO - PORTAL DE CONTRATAÇÕES - ENTRE OUTROS) 
 
 ### Sistema Gerenciador de publicações | Jornal do Povo |
 #### Projetos
@@ -58,6 +72,8 @@ Desenvolvedor com vasto conhecimento em linguagens de programação, padrões de
 - Curso Básico e Gratuito de Home Office para Iniciantes - udemy - 12 aulas - [Acesso](https://www.udemy.com/curso-basico-e-gratuito-de-home-office/)
 - Modularização Nativa com Laravel - Codecasts - 5 aulas - [Acesso](https://www.youtube.com/playlist?list=PLy5T05I_eQYOhdPaE1lO512Bhaqh-RkdV)
 - Vue.JS 2.0 - Webschool .io - 7 aulas - [Acesso](https://www.youtube.com/playlist?list=PL77JVjKTJT2hpxOjdD6VDc1JDXAKs08z5)
+- Angular (versões) Loiane  - [Acesso](https://loiane.training/)
+- FLutter - EspecializaTi - [Acesso](https://especializati.com.br/)
 
 ## Cursos em Andamento
 
@@ -92,13 +108,12 @@ Desenvolvedor com vasto conhecimento em linguagens de programação, padrões de
   - Mercado Pago (SDK)
 ### Frameworks e Libs Javascript
   - jQuery
-  - Angular.JS v1.x
+  - Angular
   - Vue.JS
-  - ReactNative
+  - Flutter
 ### Frameworks PHP
-  - Codeigniter versões 2 e 3
-  - Laravel 5.x 
-  - Lumen 
+  - Laravel 7.x 
+  - CakePHP 
   - Slim 
   - Flight 
 ### CSS
@@ -115,12 +130,6 @@ Desenvolvedor com vasto conhecimento em linguagens de programação, padrões de
 
 ### Outros
   - Redis v4.x
-
-## Mídias Digitais e Impressas
-
-  - Case's King - Produção de Logotipo 
-  - Cryptalyse - Produção de Logotipo
-  - RPPS Transparência - Produção de Logotipo
 
 ## Literatura
   Carregando...
