@@ -1,11 +1,12 @@
 # Toni Reniê Schott Agne
 #### 28/10/1982, Cachoeira do Sul-RS, Brasil
-Desenvolvedor Pleno Full Stack 
+_**Dev Sênior & apaixonado pela arquitetura de software**_
 
 Contatos
 - Email [toniagne@gmail.com](mailto:toniagne@gmail.com)
 - Telegram [@toniagne](https://t.me/toniagne)
 - Linkedin [Toni Agne](www.linkedin.com/in/toniagne)
+- WhatsApp [https://w.app/DevToniSchott](https://w.app/DevToniSchott)
 
 ---
 
@@ -18,6 +19,14 @@ Desenvolvedor com vasto conhecimento em linguagens de programação, padrões de
 - Engenharia de Software - UNINTER Cachoeira do Sul - 2018
 
 ## JOBs e Projetos executados
+
+
+### Mestres Criativos 
+#### Projetos
+- [EDUTec]() - Colaboração direta com as features do projeto, assumindo a função de TechLead focado na arquitetura do sistema. ( Desenvolvimento com Laravel v9, bootstrap v4, vuejs)
+
+- [Agencia & Projetos]() - Participação nos projetos da agência ! Stacks ( LARAVEL, VUEjs, NODE, Flutter, API Rest, Documentações)
+ 
 
 ### Orbital
 #### Projetos
@@ -56,7 +65,13 @@ Desenvolvedor com vasto conhecimento em linguagens de programação, padrões de
 - [ACBran] - (http://central.acbran-digital.com.br) : Desenvolvimento de um sistema para emissão de documentos
 - [AZSOLUTIONS] - (http://azsolution.com.br/) : SEO - Google ADS 
 ## Cursos e Certificados
- 
+
+#### Ano 2022 - 2023
+- Cruso de arquitetura de software - Documentações & Estruturas - ArcHExpert (🧩ArcHStarter)
+- Cruso de arquitetura de software - Escolhas Arquiteturais & Desenvolvimentos - ArcHExpert (🎓ArcHExpert 1.0)
+- Curso de inglês básico -  (CONNECT - Idiomas) 
+
+
 #### Ano 2020
 - Lógica em programação em Dart - 5 horas  (balta.io)
 - Curso básico de FLUTTER - 12 horas
@@ -75,8 +90,8 @@ Desenvolvedor com vasto conhecimento em linguagens de programação, padrões de
 
 ## Cursos em Andamento
 
-- UX & Design Thinking: Experiência do Usuário nos negócios - Udemy
-- SEO Do zero a 1.000 Visitas - Udemy
+- Curso de Python 3 do básico ao avançado - Udemy
+- Deploy de uma aplicação Laravel na KingHost e na Digital Ocean (com Docker) no Desafio Deploy em 15 minutos. - Beer and Code
 
 ## Ferramentas em uso ou já utilizadas
 - Git (Github e Bitbucket)
@@ -109,15 +124,14 @@ Desenvolvedor com vasto conhecimento em linguagens de programação, padrões de
   - Vue.JS
   - Flutter
 ### Frameworks PHP
-  - Laravel 7.x 
+  - Laravel 10.x 
   - CakePHP 
   - Slim 
   - Flight 
 ### CSS
-  - Bootstrap versões 2, 3 e 4
-  - Semantic UI
+  - Bootstrap versões 4 e 5
+  - TailWind
   - UI Kit
-  - Bulma CSS
   - MaterializeCSS
   - BootstrapVue
 ### NodeJS
@@ -129,13 +143,12 @@ Desenvolvedor com vasto conhecimento em linguagens de programação, padrões de
   - Redis v4.x
 
 ## Literatura
-  Carregando...
+- [Desbloqueie o poder da sua mente] - Programe o seu subconsciente para se libertar das dores e inseguranças e transforme sua vida
 
-## Estudos Atuais
+## Estudos Atuais 
 
-  - Redes Neurais e Inteligência Artificial 
-  - Algoritmos genéticos
-  - Docker (laradock)
+  - Implantação VTEXIO
+  - ChatGPT e PHP: PHP com uma Inteligência ...
 
 ## Observações
 
