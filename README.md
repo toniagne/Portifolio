@@ -1,62 +1,96 @@
 # Toni Reniê Schott Agne
 
-**Tech Leader · Solution Architect · PHP/Laravel 12 · Azure DevOps · Recruiter & Mentor**
-
-> 12+ anos criando produtos digitais, liderando squads POS e entregando pipelines CI/CD de ponta a ponta em Azure.
-
-[LinkedIn](https://linkedin.com/in/toniagne) · toniagne@gmail.com · Cachoeira do Sul-RS, BR  
-*(PT-BR abaixo / English version below)*
+**Tech Leader · Solution Architect · Backend Specialist · Azure DevOps Enthusiast**
+📍 Cachoeira do Sul – RS, Brazil | 🌐 [LinkedIn](https://linkedin.com/in/toniagne) | 📧 [toniagne@gmail.com](mailto:toniagne@gmail.com) | 🖥️ [GitHub](https://github.com/toniagne)
 
 ---
 
-## 🚀 Highlights
-- **Tech Leadership:** coordenação de duas squads (~15 devs) e ownership de roadmap POS 2023-2025.
-- **DevOps Azure:** desenho e rollout de >50 pipelines YAML multi-stage, Docker + Terraform, deploy blue/green.
-- **Recruiting & Onboarding:** definição de processo, entrevistas técnicas, bootcamp de 2 semanas (NPS 90).
-- **Community:** palestrante Laravel São Paulo, artigo mensal no dev.to/toniagne.
+## 🧭 Sobre mim | About Me
+
+> Desenvolvedor apaixonado por arquitetura de software, liderança técnica e entrega de produtos escaláveis. Com mais de 12 anos de experiência, atuei em projetos de alta complexidade envolvendo integrações de sistemas, mensageria assíncrona e arquitetura baseada em microsserviços. Tenho forte atuação em processos DevOps, CI/CD no Azure, além de liderar times técnicos e conduzir entrevistas e onboarding de desenvolvedores.
+
+> Passionate software engineer and solution architect with 12+ years of experience in backend systems, scalable APIs, and DevOps automation. As a tech leader, I’ve managed development squads, built modern microservices, and deployed CI/CD pipelines using Azure DevOps. I actively support recruitment, code review, and mentorship processes.
+
+---
 
 ## 🛠️ Tech Radar
-![PHP](https://img.shields.io/badge/PHP-8.3-blue)
-![Laravel](https://img.shields.io/badge/Laravel-12-red)
-![Vue](https://img.shields.io/badge/Vue-3-brightgreen)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-YAML-blueviolet)
-![Docker](https://img.shields.io/badge/Docker-🐳-lightblue)
-![Kubernetes](https://img.shields.io/badge/K8s-1.30-326ce5)
 
-## 💡 Skills at a Glance  
+**Back-End:**
+PHP 8.3 · Laravel 12 · Symfony · Yii2 · TDD · Event-driven · OOP · Clean Architecture
 
-| Back-End | Front-End | Data & Messaging | DevOps / Cloud | Processos |
-|----------|-----------|------------------|----------------|-----------|
-| **PHP 8.3 / Laravel 12** (5 + anos) · Symfony · Yii2 | Vue 3 · jQuery · Bootstrap 5 · Tailwind | MySQL 8 (avançado) · PostgreSQL · Redis · **Apache Kafka** · RabbitMQ · JSON · Webhooks | Docker · CI/CD (Azure DevOps & GitHub Actions) · Linux/SSH · DigitalOcean · AWS (EC2, S3) | TDD em PHP · Scrum/Kanban · Git & GitHub · Inglês técnico |
+**Front-End:**
+Vue.js 3 · Tailwind CSS · Bootstrap 5 · jQuery
 
-**Arquiteturas & Padrões**  
-- APIs REST (modelagem, versionamento, testes)  
-- Micro-services & Event-Driven (síncronos, assíncronos/jobs)  
-- High-volume data: tuning de queries, partições, índices compostos  
-- Web Scraping / Crawlers em PHP & Python  
+**Databases:**
+MySQL (avançado) · PostgreSQL · Redis · MongoDB (básico)
 
+**Mensageria:**
+Apache Kafka · RabbitMQ · Webhooks · JSON
 
+**DevOps & Cloud:**
+Azure DevOps (YAML) · GitHub Actions · Docker · CI/CD · Linux · DigitalOcean · AWS
 
-## ✨ Featured Projects
-| Projeto | Papel | Stack | Impacto |
-|---------|-------|-------|---------|
-| **EDUTec** | Tech Lead | Laravel 12, Vue 3, Azure SQL | +40 mil usuários em 6 meses |
-| **Volvo Lovers** | Sr. Backend | Laravel 10, jQuery→Vue 3 (migração) | tempo de resposta -55% |
-| **Jornal do Povo** | Dev Pleno ➜ Lead | Migr. CI (CodeIgniter 2 → Laravel 11) | elim. 90% erros de release |
+**Arquitetura:**
+Microsserviços · DDD · Event Sourcing · API Gateways · RESTful APIs
 
-## 🎓 Recent Certs
-- *Software Architecture* – ArcHExpert (2023)
-- *Microsoft DP-420* – Designing Azure Cosmos DB (2024)
-
-## 🌱 Side quests
-- Open-source maintainer: **laravel-pos-sdk**
-- Blog & talks: toniagne.dev
+**Soft Skills:**
+Tech Leadership · Mentoria · Entrevistas Técnicas · Onboarding · Agile (Scrum/Kanban)
 
 ---
 
-<details><summary>PT-BR • Experiência detalhada</summary>
+## 📈 Experiência Profissional (Resumo)
 
-*(conteúdo completo, inclusive projetos passados, cursos, literatura…)*  
+### Tech Leader · POS e APIs Corporativas
 
-</details>
+**Shield Company · 2021 – atual**
 
+* Liderança de squads com foco em soluções POS, integração de APIs e backoffice
+* Criação e manutenção de pipelines CI/CD com Azure DevOps (YAML)
+* Adoção de arquitetura baseada em microsserviços com eventos e filas (Kafka/RabbitMQ)
+* Responsável por mentoria técnica, revisão de código e padrão de versionamento
+* Condução de entrevistas, testes técnicos e onboarding de novos devs
+
+### Desenvolvedor Backend Sênior · Laravel Specialist
+
+**Diversas Agências e Projetos SaaS · 2013 – 2021**
+
+* Criação de APIs escaláveis para marketplaces, plataformas educacionais e sistemas internos
+* Atuação com scraping, integrações, autenticação segura e sistemas de pagamentos
+* Otimização de queries para bancos de dados relacionais com alto volume de dados
+
+---
+
+## 🚀 Projetos Destaque
+
+| Projeto            | Stack                        | Impacto                                    |
+| ------------------ | ---------------------------- | ------------------------------------------ |
+| **EDUTec**         | Laravel 12, Vue 3, Azure SQL | +40 mil usuários, arquitetura multi-tenant |
+| **Volvo Lovers**   | Laravel 10, Vue, Redis       | Tempo de resposta reduzido em 55%          |
+| **Jornal do Povo** | CodeIgniter → Laravel 11     | 90% menos erros em produção                |
+
+---
+
+## 📚 Certificações & Formação
+
+* **Microsoft DP-420** – Designing Azure Cosmos DB Solutions (2024)
+* **Software Architecture** – ArcHExpert (2023)
+* **Engenharia de Software** – Graduação concluída
+* **Inglês técnico** – Leitura, escrita e documentação fluente
+
+---
+
+## 🔗 Links Rápidos
+
+* 🔹 [GitHub Projects](https://github.com/toniagne?tab=repositories)
+* 🔹 [LinkedIn](https://linkedin.com/in/toniagne)
+* 🔹 [Email](mailto:toniagne@gmail.com)
+
+---
+
+## 📣 Estou aberto a...
+
+* Oportunidades como **Arquiteto de Software** ou **Tech Lead**
+* Projetos freelance (Laravel, APIs, DevOps, Redis, Kafka)
+* Consultoria de arquitetura ou DevOps (Azure DevOps, CI/CD)
+
+---
