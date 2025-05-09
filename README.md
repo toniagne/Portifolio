@@ -23,6 +23,20 @@
 ![Docker](https://img.shields.io/badge/Docker-🐳-lightblue)
 ![Kubernetes](https://img.shields.io/badge/K8s-1.30-326ce5)
 
+## 💡 Skills at a Glance  
+
+| Back-End | Front-End | Data & Messaging | DevOps / Cloud | Processos |
+|----------|-----------|------------------|----------------|-----------|
+| **PHP 8.3 / Laravel 12** (5 + anos) · Symfony · Yii2 | Vue 3 · jQuery · Bootstrap 5 · Tailwind | MySQL 8 (avançado) · PostgreSQL · Redis · **Apache Kafka** · RabbitMQ · JSON · Webhooks | Docker · CI/CD (Azure DevOps & GitHub Actions) · Linux/SSH · DigitalOcean · AWS (EC2, S3) | TDD em PHP · Scrum/Kanban · Git & GitHub · Inglês técnico |
+
+**Arquiteturas & Padrões**  
+- APIs REST (modelagem, versionamento, testes)  
+- Micro-services & Event-Driven (síncronos, assíncronos/jobs)  
+- High-volume data: tuning de queries, partições, índices compostos  
+- Web Scraping / Crawlers em PHP & Python  
+
+
+
 ## ✨ Featured Projects
 | Projeto | Papel | Stack | Impacto |
 |---------|-------|-------|---------|
@@ -45,16 +59,4 @@
 *(conteúdo completo, inclusive projetos passados, cursos, literatura…)*  
 
 </details>
-
-## 💡 Skills at a Glance  
-
-| Back-End | Front-End | Data & Messaging | DevOps / Cloud | Processos |
-|----------|-----------|------------------|----------------|-----------|
-| **PHP 8.3 / Laravel 12** (5 + anos) · Symfony · Yii2 | Vue 3 · jQuery · Bootstrap 5 · Tailwind | MySQL 8 (avançado) · PostgreSQL · Redis · **Apache Kafka** · RabbitMQ · JSON · Webhooks | Docker · CI/CD (Azure DevOps & GitHub Actions) · Linux/SSH · DigitalOcean · AWS (EC2, S3) | TDD em PHP · Scrum/Kanban · Git & GitHub · Inglês técnico |
-
-**Arquiteturas & Padrões**  
-- APIs REST (modelagem, versionamento, testes)  
-- Micro-services & Event-Driven (síncronos, assíncronos/jobs)  
-- High-volume data: tuning de queries, partições, índices compostos  
-- Web Scraping / Crawlers em PHP & Python  
 
